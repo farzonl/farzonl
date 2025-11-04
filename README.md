@@ -1,13 +1,6 @@
-#### &#x1f4c8; My GitHub Stats
 
-<a href="https://farzon.org">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farzonl&show_icons=true&line_height=33&count_private=true&theme=dark" alt="farzonl's GitHub Stats" />
-</a>
+# Farzon Lotfi
 
-<a href="https://farzon.org">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzonl&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-</a>
+I can be found on [#llvm](https://discord.gg/xS7Z362)
 
-<a href="https:/farzon.org">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzonl&theme=dark" />
-</a>
+![Farzon's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzonl&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=gotham&show_icons=true)
